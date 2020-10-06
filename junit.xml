@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="4.595">
+  <testsuite name="App tests" errors="0" failures="0" skipped="0" timestamp="2020-10-06T07:30:13" time="3.255" tests="5">
+    <testcase classname="App tests Counter heading exists" name="App tests Counter heading exists" time="0.059">
+    </testcase>
+    <testcase classname="App tests Counter exists" name="App tests Counter exists" time="0.006">
+    </testcase>
+    <testcase classname="App tests Increment counter button exists" name="App tests Increment counter button exists" time="0.003">
+    </testcase>
+    <testcase classname="App tests Counter increments" name="App tests Counter increments" time="0.011">
+    </testcase>
+    <testcase classname="App tests Check state" name="App tests Check state" time="0.035">
+    </testcase>
+  </testsuite>
+</testsuites>
